@@ -1,1 +1,1 @@
-recursive-include dpd_static_support *.js *.css
+recursive-include dpd_static_support *.js *.css *.js.map *.css.map
